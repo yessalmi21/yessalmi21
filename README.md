@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yessalmi21
+- 👀 I’m interested in embedded systems Engineer. 
+- 🌱 I’m currently learning RTOS & Embedded Linux
+- 📫 How to reach me : yessalmi925@gmail.com
